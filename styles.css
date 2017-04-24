@@ -1,0 +1,33 @@
+body {
+    background-color: #2E2633;
+    font-family: Georgia, serif;
+    color: #555152;
+}
+
+#main {
+    width: 450px;
+    margin: 125px auto;
+    text-align: center;
+    border: 3px double #000000;
+    background-color: #EFFFCD;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+
+#name {
+    font-variant: small-caps;
+    font-size: 40px;
+    margin-bottom: 7px;
+}
+
+#title {
+    font-size: 16px;
+}
+
+#contact {
+    margin-top: 30px;
+}
+
+a {
+    color: #547980;
+}
